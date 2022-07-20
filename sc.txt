@@ -1,2 +1,15 @@
+>>>>>div
 division
 6/3=2
+=======
+>>>>>mul
+multiplication
+2*5=10
+=======
+>>>>>sub
+subration
+6-3=3
+===============
+this is the interface for simple calculator
+>>>>>> main
+
