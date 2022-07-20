@@ -9,6 +9,9 @@ multiplication
 >>>>>sub
 subration
 6-3=3
+>>>>>add
+addition
+2+3=5
 ===============
 this is the interface for simple calculator
 >>>>>> main
