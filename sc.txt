@@ -1,1 +1,2 @@
-this a the interface for simple calculator
+multiplication
+2*5=10
