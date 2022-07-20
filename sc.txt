@@ -1,1 +1,2 @@
-this a the interface for simple calculator
+addition
+2+3=5
