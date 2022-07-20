@@ -1,3 +1,7 @@
+>>>>>div
+division
+6/3=2
+=======
 >>>>>mul
 multiplication
 2*5=10
@@ -8,3 +12,4 @@ subration
 ===============
 this is the interface for simple calculator
 >>>>>> main
+
