@@ -1,1 +1,2 @@
-this a the interface for simple calculator
+division
+6/3=2
