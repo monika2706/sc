@@ -1,1 +1,5 @@
+sub
+subration
+6-3=3
+===============
 this is the interface for simple calculator
